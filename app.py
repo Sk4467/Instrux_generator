@@ -3,7 +3,6 @@ import requests
 import justext
 import pdfplumber
 import docx2txt
-import test_prompt as prompt
 import json
 import os
 import openai
