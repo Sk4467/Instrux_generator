@@ -233,7 +233,7 @@ def main():
             # -----------------------------    RUNNING THE PROMPT   -----------------------------
 
             # running the prompt form here
-            openai.api_key = "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"
+            openai.api_key = "GET_YOUR_KEY"
             my_prompt_template = InstructionGenerationTemplate()
 
             # providing the rules for the instructions to be generated
